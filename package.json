@@ -35,7 +35,7 @@
   "author": "Eyald <hisco@googlegroups.com‬>",
   "license": "MIT",
   "dependencies": {
-    "http-proxy": "^1.16.2",
+    "http-proxy": "^1.18.1",
     "status-monitor": "^1.0.3"
   }
 }
